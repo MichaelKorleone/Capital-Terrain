@@ -1,0 +1,8 @@
+{
+  "CIN": {
+    "confidence": "low",
+    "warnings": [
+      "Known bad free-source mapping for Cinergy Corp.; price series is not reliable enough for market-cap terrain."
+    ]
+  }
+}
